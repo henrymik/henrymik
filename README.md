@@ -1,10 +1,8 @@
 ### Hello!
 
-My name is Henry Mikkonen and I am a composer audio engineer who is learning about VR and AR development and coding in general. I am especially interested in interactive and spatial audio.
+My name is Henry Mikkonen and I am an audio engineer and programmer.
 
-I am looking to collaborate on projects requiring the use 3D audio.
-
-Ask me about audio production!
+I am looking to collaborate on game projects.
 
 Reach me at henryomikkonen@gmail.com.
 
